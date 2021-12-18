@@ -1,0 +1,42 @@
+.Company{
+  padding: 40px;
+  text-align: center;
+}
+.underline{
+  height: 4px;
+  width: 6rem;
+  background-color: #f76c2f;
+}
+.underline1{
+  height: 4px;
+  width: 14rem;
+  background-color: #f76c2f;
+}
+p{
+  font-size: 14px;
+  color:#262626;
+}
+.locate{
+  background-color: #f2f2f2;
+  justify-content: space-evenly;
+}
+.footer a{
+  color:#fff;
+  text-decoration: none;
+}
+
+.footer a:hover{
+  color:gray;
+}
+
+.bg-c-light{
+  background-color: #f2f2f2;
+}
+
+.bg-custom{
+  /* background-color: #B3DFEC; */
+  background-color: #E09789;
+}
+.bg-test{
+  background-color: teal;
+}
